@@ -1,0 +1,38 @@
+*{
+  padding:0;
+  margin:0;
+}
+.posicion {
+
+  margin-left: 200px;
+  margin-right:auto;
+  width: 200px;
+}
+#menu{
+	padding-top:5px;
+	margin:auto;
+	width:auto;
+	height:60px;
+}
+
+#menu ul a{
+	color:#FEA024;
+	text-decoration:none;
+	font:bold 20px Verdana;
+	padding:5px 10px 5px 10px;
+	background:transparent;
+	border-bottom:5px solid transparent;
+}
+
+#menu ul a:hover {
+	border-bottom:5px solid #FFCC00;
+	color:#FFCC00;
+}
+
+.lista_1{
+	
+	background:#000000;
+	margin-top:1px;
+	margin-left:3px;
+	
+}
